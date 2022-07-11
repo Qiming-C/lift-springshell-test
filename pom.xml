@@ -20,6 +20,11 @@
       <version>5.3.16</version>
     </dependency>
 
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-common</artifactId>
+      <version>3.2.2</version>
+    </dependency>
   </dependencies>
 
 </project>
